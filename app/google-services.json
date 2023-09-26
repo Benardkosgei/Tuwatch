@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "998756269446",
+    "project_id": "composemovie",
+    "storage_bucket": "composemovie.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998756269446:android:acc0e39b94ed3244454007",
+        "android_client_info": {
+          "package_name": "com.example.tuwatch"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC5sN74SQk6N66zMrkucxhvJc3uo89hyFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
